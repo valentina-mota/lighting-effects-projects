@@ -35,4 +35,8 @@ The **Spotlight Effect** (also referred to as the "Mouse-Following Light Effect"
 
 For any questions or suggestions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/valentinamota/) or open an issue in this repository.
 
+## Effects Rendering
+![Flashlight Effect](https://github.com/valentina-mota/web-images/blob/main/css-gsap-flashlight-effect.png?raw=true)
+![Spotlight Effect]([https://github.com/valentina-mota/web-images/blob/main/css-gsap-flashlight-effect.png?raw=true](https://github.com/valentina-mota/web-images/blob/main/css-gsap-spotlight-effect.png?raw=true))
+
 
