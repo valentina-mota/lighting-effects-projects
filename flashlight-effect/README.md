@@ -13,7 +13,7 @@ The Flashlight Effect is a simple yet interactive web project that simulates a f
 This project uses Vanilla JavaScript to dynamically update CSS variables based on the mouse's position. The CSS `background-image` property, with a `radial-gradient`, creates the flashlight effect that moves smoothly across the screen.
 
 ## Flashlight Effect Rendering
-[Screenshot](https://github.com/valentina-mota/web-images/blob/main/css-gsap-flashlight-effect.png?raw=true)
+![Flashlight Effect Rendering](https://github.com/valentina-mota/web-images/blob/main/css-gsap-flashlight-effect.png?raw=true)
 
 
 
